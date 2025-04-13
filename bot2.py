@@ -8,7 +8,7 @@ from copier import start_copy_trading
 from utils import short_address
 
 # Tokenni o'rnatish
-BOT_TOKEN = "7626262808:AAFXfHiZ9QvorOlYrLpeGutFwhTg6ao0cqY"
+BOT_TOKEN = ""
 
 # Loggingni yoqish
 logging.basicConfig(format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO)
